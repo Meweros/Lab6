@@ -1,0 +1,11 @@
+# ninja log v5
+0	289	7327065863946698	CMakeFiles/Lab6.dir/main.cpp.obj	6b79d51302e37e3a
+5	294	7327065864006752	CMakeFiles/Lab6.dir/Stroka.cpp.obj	b98bdfc75a4350d1
+3	276	7327066484942782	CMakeFiles/Lab6.dir/main.cpp.obj	6b79d51302e37e3a
+6	277	7327066484952790	CMakeFiles/Lab6.dir/Stroka.cpp.obj	b98bdfc75a4350d1
+277	348	7327066485643422	Lab6.exe	2f61a7adedbaa9c1
+2	279	7327087126711386	CMakeFiles/Lab6.dir/main.cpp.obj	6b79d51302e37e3a
+5	290	7327087126831501	CMakeFiles/Lab6.dir/Stroka.cpp.obj	b98bdfc75a4350d1
+290	369	7327087127592203	Lab6.exe	2f61a7adedbaa9c1
+2	268	7327087530262650	CMakeFiles/Lab6.dir/main.cpp.obj	6b79d51302e37e3a
+269	338	7327087530933266	Lab6.exe	2f61a7adedbaa9c1
